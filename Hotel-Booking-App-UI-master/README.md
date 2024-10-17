@@ -1,6 +1,6 @@
 # Flutter Hotel Booking App UI with support for dark and light mode.
 ### Flutter 2.8.1 Null Safety
-Beautiful Hotel Booking App UI with support for dark and light mode. Created by Martin Gogołowicz.
+Beautiful Hotel Booking App UI with support for dark and light mode. Created by Kishan Patel.
 ## Please leave a ⭐ if you like it 💙
 ## How it looks:
 #### Light mode ⚪ :
